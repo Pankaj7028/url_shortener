@@ -1,8 +1,8 @@
-<b>URL SHORTNER<b>
+<b>URL SHORTENER<b>
 
 The project is a basic URL shortener web application built with Python and Flask, a micro web framework. 
-|
-|
+<br>
+<br>
 <img src = "https://github.com/Pankaj7028/url_shortener/blob/main/URL_Shortner_Video.gif" width = "800px" />
 
 It offers a simple web interface for users to shorten long URLs and search for existing URLs based on title keywords. The project consists of the following components:
